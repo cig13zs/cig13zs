@@ -13,6 +13,9 @@ do not need an account, and none of them sends analytics to me.
 | [Invisibles](https://github.com/cig13zs/invisibles) | Reveals zero-width characters, bidi controls and hidden Unicode, then strips them. | [Web app](https://cig13zs.github.io/invisibles/) |
 | [Unfurl](https://github.com/cig13zs/unfurl) | Unwraps Google/FB redirects and strips UTM tracking tails offline. | [Web app](https://cig13zs.github.io/unfurl/) |
 | [PromptPurify](https://github.com/cig13zs/prompt-purify) | Sanitizes code, logs, and stack traces before pasting into AI models. | [Web app](https://cig13zs.github.io/prompt-purify/) |
+| [CleanCSV](https://github.com/cig13zs/clean-csv) | Repairs delimiters, missing columns, and quote escaping in messy CSVs. | [Web app](https://cig13zs.github.io/clean-csv/) |
+| [UnbreakText](https://github.com/cig13zs/unbreak-text) | Unwraps hard line-breaks and normalizes copied paragraphs into clean text. | [Web app](https://cig13zs.github.io/unbreak-text/) |
+| [JSONFixer](https://github.com/cig13zs/json-fixer) | Repairs syntax errors, trailing commas, and unquoted keys in broken JSON. | [Web app](https://cig13zs.github.io/json-fixer/) |
 | [Looktwice](https://github.com/cig13zs/looktwice) | Inspects a page's links and forms to see where they actually lead. | [Project page](https://cig13zs.github.io/looktwice/) |
 | [Filed](https://github.com/cig13zs/filed) | Saves the job application page you're viewing and exports to CSV locally. | [Project page](https://cig13zs.github.io/filed/) |
 | [Plusminus](https://github.com/cig13zs/plusminus) | Propagates measurement uncertainty specs through formulas for lab reports. | [Web app](https://cig13zs.github.io/plusminus/) |
