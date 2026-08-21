@@ -9,7 +9,10 @@ do not need an account, and none of them sends analytics to me.
 
 | Project | What it does | Try it |
 |---|---|---|
+| [Defrost](https://github.com/cig13zs/defrost) | Unfreezes scroll, restores copy & right-click, and strips modal overlays. | [Project page](https://cig13zs.github.io/defrost/) |
 | [Invisibles](https://github.com/cig13zs/invisibles) | Reveals zero-width characters, bidi controls and hidden Unicode, then strips them. | [Web app](https://cig13zs.github.io/invisibles/) |
+| [Unfurl](https://github.com/cig13zs/unfurl) | Unwraps Google/FB redirects and strips UTM tracking tails offline. | [Web app](https://cig13zs.github.io/unfurl/) |
+| [PromptPurify](https://github.com/cig13zs/prompt-purify) | Sanitizes code, logs, and stack traces before pasting into AI models. | [Web app](https://cig13zs.github.io/prompt-purify/) |
 | [Looktwice](https://github.com/cig13zs/looktwice) | Inspects a page's links and forms to see where they actually lead. | [Project page](https://cig13zs.github.io/looktwice/) |
 | [Filed](https://github.com/cig13zs/filed) | Saves the job application page you're viewing and exports to CSV locally. | [Project page](https://cig13zs.github.io/filed/) |
 | [Plusminus](https://github.com/cig13zs/plusminus) | Propagates measurement uncertainty specs through formulas for lab reports. | [Web app](https://cig13zs.github.io/plusminus/) |
