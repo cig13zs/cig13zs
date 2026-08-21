@@ -16,6 +16,11 @@ do not need an account, and none of them sends analytics to me.
 | [CleanCSV](https://github.com/cig13zs/clean-csv) | Repairs delimiters, missing columns, and quote escaping in messy CSVs. | [Web app](https://cig13zs.github.io/clean-csv/) |
 | [UnbreakText](https://github.com/cig13zs/unbreak-text) | Unwraps hard line-breaks and normalizes copied paragraphs into clean text. | [Web app](https://cig13zs.github.io/unbreak-text/) |
 | [JSONFixer](https://github.com/cig13zs/json-fixer) | Repairs syntax errors, trailing commas, and unquoted keys in broken JSON. | [Web app](https://cig13zs.github.io/json-fixer/) |
+| [MDTableKit](https://github.com/cig13zs/md-table-kit) | Converts spreadsheet cells and TSV text into aligned GitHub markdown tables. | [Web app](https://cig13zs.github.io/md-table-kit/) |
+| [URLParams](https://github.com/cig13zs/url-params) | Inspects, edits, and reconstructs complex URL query parameters offline. | [Web app](https://cig13zs.github.io/url-params/) |
+| [SlugClean](https://github.com/cig13zs/slug-clean) | Generates clean, URL-safe SEO slugs with diacritic transliteration offline. | [Web app](https://cig13zs.github.io/slug-clean/) |
+| [EntityClean](https://github.com/cig13zs/entity-clean) | Decodes HTML5 named and numeric entities into clean UTF-8 text offline. | [Web app](https://cig13zs.github.io/entity-clean/) |
+| [EpochHuman](https://github.com/cig13zs/epoch-human) | Converts Unix epoch timestamps to UTC, local, and relative human time. | [Web app](https://cig13zs.github.io/epoch-human/) |
 | [CronHuman](https://github.com/cig13zs/cron-human) | Translates cryptic cron schedule expressions into plain English offline. | [Web app](https://cig13zs.github.io/cron-human/) |
 | [CurlToFetch](https://github.com/cig13zs/curl-to-fetch) | Converts cURL commands into clean JavaScript fetch() snippets. | [Web app](https://cig13zs.github.io/curl-to-fetch/) |
 | [Base64Studio](https://github.com/cig13zs/base64-studio) | Decodes Base64 payloads and inspects JWT tokens offline. | [Web app](https://cig13zs.github.io/base64-studio/) |
