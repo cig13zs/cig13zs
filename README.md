@@ -16,6 +16,16 @@ do not need an account, and none of them sends analytics to me.
 | [CleanCSV](https://github.com/cig13zs/clean-csv) | Repairs delimiters, missing columns, and quote escaping in messy CSVs. | [Web app](https://cig13zs.github.io/clean-csv/) |
 | [UnbreakText](https://github.com/cig13zs/unbreak-text) | Unwraps hard line-breaks and normalizes copied paragraphs into clean text. | [Web app](https://cig13zs.github.io/unbreak-text/) |
 | [JSONFixer](https://github.com/cig13zs/json-fixer) | Repairs syntax errors, trailing commas, and unquoted keys in broken JSON. | [Web app](https://cig13zs.github.io/json-fixer/) |
+| [CronHuman](https://github.com/cig13zs/cron-human) | Translates cryptic cron schedule expressions into plain English offline. | [Web app](https://cig13zs.github.io/cron-human/) |
+| [CurlToFetch](https://github.com/cig13zs/curl-to-fetch) | Converts cURL commands into clean JavaScript fetch() snippets. | [Web app](https://cig13zs.github.io/curl-to-fetch/) |
+| [Base64Studio](https://github.com/cig13zs/base64-studio) | Decodes Base64 payloads and inspects JWT tokens offline. | [Web app](https://cig13zs.github.io/base64-studio/) |
+| [SVGDiet](https://github.com/cig13zs/svg-diet) | Strips junk editor metadata and comments from SVG files offline. | [Web app](https://cig13zs.github.io/svg-diet/) |
+| [TextDiff](https://github.com/cig13zs/text-diff) | Fast offline side-by-side line diff viewer. | [Web app](https://cig13zs.github.io/text-diff/) |
+| [SQLFormat](https://github.com/cig13zs/sql-format) | Formats and beautifies raw SQL queries with standard uppercase keywords. | [Web app](https://cig13zs.github.io/sql-format/) |
+| [EnvClean](https://github.com/cig13zs/env-clean) | Deduplicates and normalizes .env variables and generates .env.example files. | [Web app](https://cig13zs.github.io/env-clean/) |
+| [ColorBlindSafe](https://github.com/cig13zs/color-blind-safe) | Calculates WCAG AA/AAA color contrast ratios and colorblind safety offline. | [Web app](https://cig13zs.github.io/color-blind-safe/) |
+| [RegexExplain](https://github.com/cig13zs/regex-explain) | Deconstructs and explains regular expression tokens and flags in plain English. | [Web app](https://cig13zs.github.io/regex-explain/) |
+| [JWTKit](https://github.com/cig13zs/jwt-kit) | Inspects JWT headers, claims, and expiration timestamps offline. | [Web app](https://cig13zs.github.io/jwt-kit/) |
 | [Looktwice](https://github.com/cig13zs/looktwice) | Inspects a page's links and forms to see where they actually lead. | [Project page](https://cig13zs.github.io/looktwice/) |
 | [Filed](https://github.com/cig13zs/filed) | Saves the job application page you're viewing and exports to CSV locally. | [Project page](https://cig13zs.github.io/filed/) |
 | [Plusminus](https://github.com/cig13zs/plusminus) | Propagates measurement uncertainty specs through formulas for lab reports. | [Web app](https://cig13zs.github.io/plusminus/) |
