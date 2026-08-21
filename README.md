@@ -9,11 +9,14 @@ do not need an account, and none of them sends analytics to me.
 
 | Project | What it does | Try it |
 |---|---|---|
-| [Carryover](https://github.com/cig13zs/carryover) | Measures a ChatGPT, DeepSeek or Grok conversation and makes an editable handoff for a fresh chat. | [Project page](https://cig13zs.github.io/carryover/) |
-| [Invisibles](https://github.com/cig13zs/invisibles) | Reveals zero-width characters, bidi controls and other hidden Unicode, then removes them. | [Web app](https://cig13zs.github.io/invisibles/) |
-| [Rinse](https://github.com/cig13zs/rinse) | Shows the GPS, camera and timestamps in a photo before exporting a clean copy. | [Web app](https://cig13zs.github.io/rinse/) |
-| [Return Google Cache](https://github.com/cig13zs/return-google-cache) | Adds Wayback Machine and archive.today links under Google results. | [Install page](https://cig13zs.github.io/return-google-cache/) |
-| [Return 100 Results](https://github.com/cig13zs/return-100-results) | Loads the next Google results pages inline, one page per click. | [Install page](https://cig13zs.github.io/return-100-results/) |
+| [Invisibles](https://github.com/cig13zs/invisibles) | Reveals zero-width characters, bidi controls and hidden Unicode, then strips them. | [Web app](https://cig13zs.github.io/invisibles/) |
+| [Looktwice](https://github.com/cig13zs/looktwice) | Inspects a page's links and forms to see where they actually lead. | [Project page](https://cig13zs.github.io/looktwice/) |
+| [Filed](https://github.com/cig13zs/filed) | Saves the job application page you're viewing and exports to CSV locally. | [Project page](https://cig13zs.github.io/filed/) |
+| [Plusminus](https://github.com/cig13zs/plusminus) | Propagates measurement uncertainty specs through formulas for lab reports. | [Web app](https://cig13zs.github.io/plusminus/) |
+| [Carryover](https://github.com/cig13zs/carryover) | Measures context fill and carries handoffs into fresh chats cleanly. | [Project page](https://cig13zs.github.io/carryover/) |
+| [Rinse](https://github.com/cig13zs/rinse) | Shows GPS, camera, and timestamps in photos before exporting clean copies. | [Web app](https://cig13zs.github.io/rinse/) |
+| [Return Google Cache](https://github.com/cig13zs/return-google-cache) | Adds Wayback Machine and archive.today links under Google search results. | [Install page](https://cig13zs.github.io/return-google-cache/) |
+| [Return 100 Results](https://github.com/cig13zs/return-100-results) | Loads the next Google results pages inline as one long list. | [Install page](https://cig13zs.github.io/return-100-results/) |
 
 The photo and text tools process files in the page. The chat extension has no
 permissions key and makes no network requests. The Google extensions only work
