@@ -22,8 +22,14 @@ do not need an account, and none of them sends analytics to me.
 | [PromptPurify](https://github.com/cig13zs/prompt-purify) | Sanitizes code, terminal ANSI codes, and line numbers for AI prompts | [Web app](https://cig13zs.github.io/prompt-purify/) |
 | [Carryover](https://github.com/cig13zs/carryover) | Measures context fill and packages handoffs for fresh chats | [Project](https://cig13zs.github.io/carryover/) |
 | [UnbreakText](https://github.com/cig13zs/unbreak-text) | Unwraps hard line-breaks and normalizes copied paragraphs | [Web app](https://cig13zs.github.io/unbreak-text/) |
+| [StringAnalyzer](https://github.com/cig13zs/string-analyzer) | Analyzes byte length, word count, character frequencies, and UTF-8 size | [Web app](https://cig13zs.github.io/string-analyzer/) |
+| [HTMLEscape](https://github.com/cig13zs/html-escape) | Bidirectional HTML entity and markup escaper for documentation | [Web app](https://cig13zs.github.io/html-escape/) |
+| [EntityClean](https://github.com/cig13zs/entity-clean) | Decodes HTML5 named and numeric entities into clean UTF-8 text | [Web app](https://cig13zs.github.io/entity-clean/) |
+| [SlugClean](https://github.com/cig13zs/slug-clean) | Generates clean, URL-safe SEO slugs with diacritic transliteration | [Web app](https://cig13zs.github.io/slug-clean/) |
+| [CaseConverter](https://github.com/cig13zs/case-converter) | Converts strings between camelCase, snake_case, and kebab-case | [Web app](https://cig13zs.github.io/case-converter/) |
+| [TextDiff](https://github.com/cig13zs/text-diff) | Fast offline side-by-side text and line diff viewer | [Web app](https://cig13zs.github.io/text-diff/) |
 
-### 📊 Data & JSON Utilities
+### 📊 Data, SQL & JSON Utilities
 | Tool | Description | Links |
 |---|---|---|
 | [CleanCSV](https://github.com/cig13zs/clean-csv) | Repairs delimiters, missing columns, and quote escaping | [Web app](https://cig13zs.github.io/clean-csv/) |
@@ -31,6 +37,9 @@ do not need an account, and none of them sends analytics to me.
 | [MDTableKit](https://github.com/cig13zs/md-table-kit) | Converts spreadsheet cells and TSV text into GitHub markdown tables | [Web app](https://cig13zs.github.io/md-table-kit/) |
 | [MinifyJSON](https://github.com/cig13zs/minify-json) | Compresses large JSON payloads with syntax validation | [Web app](https://cig13zs.github.io/minify-json/) |
 | [JSONToTypeScript](https://github.com/cig13zs/json-to-typescript) | Generates TypeScript interfaces and types from JSON payloads | [Web app](https://cig13zs.github.io/json-to-typescript/) |
+| [JSONToCSV](https://github.com/cig13zs/json-to-csv) | Flattens nested JSON arrays of objects and exports to RFC 4180 CSV | [Web app](https://cig13zs.github.io/json-to-csv/) |
+| [SQLToJSON](https://github.com/cig13zs/sql-to-json) | Converts raw SQL INSERT INTO statements and table dumps into JSON | [Web app](https://cig13zs.github.io/sql-to-json/) |
+| [XMLToJSON](https://github.com/cig13zs/xml-to-json) | Parses legacy XML feeds, SOAP payloads, and RSS feeds into JSON | [Web app](https://cig13zs.github.io/xml-to-json/) |
 | [Base64Studio](https://github.com/cig13zs/base64-studio) | Decodes Base64 payloads and inspects JWT claims offline | [Web app](https://cig13zs.github.io/base64-studio/) |
 | [LoremCode](https://github.com/cig13zs/lorem-code) | Generates realistic mock data, user profiles, and SQL seeds | [Web app](https://cig13zs.github.io/lorem-code/) |
 
@@ -48,16 +57,21 @@ do not need an account, and none of them sends analytics to me.
 | [RobotsTxtTester](https://github.com/cig13zs/robots-txt-tester) | Tests robots.txt disallow rules for search and AI crawler bots | [Web app](https://cig13zs.github.io/robots-txt-tester/) |
 | [RegexExplain](https://github.com/cig13zs/regex-explain) | Deconstructs regular expression tokens and flags in plain English | [Web app](https://cig13zs.github.io/regex-explain/) |
 | [JWTKit](https://github.com/cig13zs/jwt-kit) | Inspects JWT headers, claims, and expiration timestamps offline | [Web app](https://cig13zs.github.io/jwt-kit/) |
+| [JWTEncoderTest](https://github.com/cig13zs/jwt-encoder-test) | Generates mock JWT tokens with custom claims for testing offline | [Web app](https://cig13zs.github.io/jwt-encoder-test/) |
+| [PasswordEntropy](https://github.com/cig13zs/password-entropy) | Calculates password entropy bits and brute-force crack times | [Web app](https://cig13zs.github.io/password-entropy/) |
 | [CronHuman](https://github.com/cig13zs/cron-human) | Translates cryptic cron expressions into plain English | [Web app](https://cig13zs.github.io/cron-human/) |
 | [HashForge](https://github.com/cig13zs/hash-forge) | Generates SHA-256, SHA-512, MD5, and HMAC hashes offline | [Web app](https://cig13zs.github.io/hash-forge/) |
 | [UUIDULIDGen](https://github.com/cig13zs/uuid-ulid-gen) | Generates secure UUID v4/v7, ULIDs, and NanoIDs in bulk | [Web app](https://cig13zs.github.io/uuid-ulid-gen/) |
-| [TextDiff](https://github.com/cig13zs/text-diff) | Fast offline side-by-side text and line diff viewer | [Web app](https://cig13zs.github.io/text-diff/) |
-| [CaseConverter](https://github.com/cig13zs/case-converter) | Converts strings between camelCase, snake_case, and kebab-case | [Web app](https://cig13zs.github.io/case-converter/) |
+| [EpochHuman](https://github.com/cig13zs/epoch-human) | Converts Unix epoch timestamps to UTC and relative human time | [Web app](https://cig13zs.github.io/epoch-human/) |
+| [URLParams](https://github.com/cig13zs/url-params) | Inspects, edits, and reconstructs complex URL query parameters | [Web app](https://cig13zs.github.io/url-params/) |
 
 ### 🎨 Frontend & Design Utilities
 | Tool | Description | Links |
 |---|---|---|
 | [CSSBoxShadow](https://github.com/cig13zs/css-box-shadow) | Designs smooth layered CSS box shadows with live preview | [Web app](https://cig13zs.github.io/css-box-shadow/) |
+| [CSSGradientStudio](https://github.com/cig13zs/css-gradient-studio) | Designs smooth linear, radial, and conic CSS gradients | [Web app](https://cig13zs.github.io/css-gradient-studio/) |
+| [FlexboxCheatsheet](https://github.com/cig13zs/flexbox-cheatsheet) | Interactive CSS Flexbox layout builder and rule generator | [Web app](https://cig13zs.github.io/flexbox-cheatsheet/) |
+| [GridLayoutGen](https://github.com/cig13zs/grid-layout-gen) | Designs CSS Grid template areas and responsive layouts visually | [Web app](https://cig13zs.github.io/grid-layout-gen/) |
 | [ColorBlindSafe](https://github.com/cig13zs/color-blind-safe) | Calculates WCAG AA/AAA color contrast ratios and colorblind safety | [Web app](https://cig13zs.github.io/color-blind-safe/) |
 | [PaletteGrab](https://github.com/cig13zs/palette-grab) | Extracts dominant color palettes and CSS variables from images | [Web app](https://cig13zs.github.io/palette-grab/) |
 | [SVGDiet](https://github.com/cig13zs/svg-diet) | Strips junk editor metadata and comments from SVG files | [Web app](https://cig13zs.github.io/svg-diet/) |
@@ -66,10 +80,6 @@ do not need an account, and none of them sends analytics to me.
 | [MinifyCSS](https://github.com/cig13zs/minify-css) | Compresses and minifies CSS stylesheets offline | [Web app](https://cig13zs.github.io/minify-css/) |
 | [B64ImagePreview](https://github.com/cig13zs/b64-image-preview) | Previews, inspects dimensions, and downloads Base64 data URIs | [Web app](https://cig13zs.github.io/b64-image-preview/) |
 | [MetaTagAnalyzer](https://github.com/cig13zs/meta-tag-analyzer) | Inspects Open Graph and SEO meta tags for social previews | [Web app](https://cig13zs.github.io/meta-tag-analyzer/) |
-| [EntityClean](https://github.com/cig13zs/entity-clean) | Decodes HTML5 named and numeric entities into clean UTF-8 text | [Web app](https://cig13zs.github.io/entity-clean/) |
-| [URLParams](https://github.com/cig13zs/url-params) | Inspects, edits, and reconstructs complex URL query parameters | [Web app](https://cig13zs.github.io/url-params/) |
-| [SlugClean](https://github.com/cig13zs/slug-clean) | Generates clean, URL-safe SEO slugs with diacritic transliteration | [Web app](https://cig13zs.github.io/slug-clean/) |
-| [EpochHuman](https://github.com/cig13zs/epoch-human) | Converts Unix epoch timestamps to UTC and relative human time | [Web app](https://cig13zs.github.io/epoch-human/) |
 | [Plusminus](https://github.com/cig13zs/plusminus) | Propagates measurement uncertainty formulas for lab reports | [Web app](https://cig13zs.github.io/plusminus/) |
 | [Filed](https://github.com/cig13zs/filed) | Saves job application pages locally and exports to CSV | [Project](https://cig13zs.github.io/filed/) |
 
