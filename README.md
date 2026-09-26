@@ -8,6 +8,7 @@ Small free browser tools that run on your device. No accounts, no tracking, no s
 
 | | What it does | Get it |
 |---|---|---|
+| **Sift for AO3** | Keeps your excluded tags on for every AO3 search, mutes authors when you're logged out, and folds fics where your ship is only a side pairing | [Site](https://cig13zs.github.io/sift-ao3/) · [Source](https://github.com/cig13zs/sift-ao3) |
 | **Invisibles** | Shows the hidden characters in pasted text (zero-width spaces, look-alike spaces, direction marks) and removes them | [Chrome Web Store](https://chromewebstore.google.com/detail/ehfmbdppopedenilpgmhofcdibkilmbe) · [Web app](https://cig13zs.github.io/invisibles/) · [Source](https://github.com/cig13zs/invisibles) |
 | **Per Piece** | Adds the price per 100 g, 100 ml or piece next to products on Shopee, Lazada, Amazon and seven other shops | [Chrome Web Store](https://chromewebstore.google.com/detail/olollimofmchnjbagnjjooajkipandok) · [Source](https://github.com/cig13zs/per-piece) |
 | **Carryover** | Shows how full a long ChatGPT, DeepSeek or Grok chat is, then packs the goal, decisions and code into a handoff for a new chat | [Site](https://cig13zs.github.io/carryover/) · [Source](https://github.com/cig13zs/carryover) |
