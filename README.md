@@ -20,6 +20,10 @@ Small free browser tools that run on your device. No accounts, no tracking, no s
 | **Rinse** | Shows the location and camera data hidden in a photo, then removes it | [Open](https://cig13zs.github.io/rinse/) · [Source](https://github.com/cig13zs/rinse) |
 | **Plusminus** | Turns an instrument's accuracy spec and repeated readings into an uncertainty budget | [Open](https://cig13zs.github.io/plusminus/) · [Source](https://github.com/cig13zs/plusminus) |
 
+## Video
+
+- [hf-kit](https://github.com/cig13zs/hf-kit) is a set of [HyperFrames](https://github.com/heygen-com/hyperframes) animation blocks, sound presets and style targets, measured from 48 YouTube videos in 16 niches. It also works as a Claude Code or Codex skill. [Demos](https://cig13zs.github.io/hf-kit/)
+
 ## Open source contributions
 
 Pull requests under review:
