@@ -10,7 +10,7 @@ Small free browser tools that run on your device. No accounts, no tracking, no s
 |---|---|---|
 | **Invisibles** | Shows the hidden characters in pasted text (zero-width spaces, look-alike spaces, direction marks) and removes them | [Chrome Web Store](https://chromewebstore.google.com/detail/ehfmbdppopedenilpgmhofcdibkilmbe) · [Web app](https://cig13zs.github.io/invisibles/) · [Source](https://github.com/cig13zs/invisibles) |
 | **Sift for AO3** | Keeps your excluded AO3 tags on, mutes authors even when logged out, and shows only fics where your ship comes first | [Chrome Web Store](https://chromewebstore.google.com/detail/nonieoiidaeaeheddaifgdmecgcbfgpl) · [Source](https://github.com/cig13zs/sift-ao3) |
-| **Playlist Lens** | Sorts any YouTube playlist by length and shows which videos fit in the minutes you have | Chrome Web Store (in review) · [Source](https://github.com/cig13zs/playlist-lens) |
+| **Playlist Lens** | Sorts any YouTube playlist by length and shows which videos fit in the minutes you have | [Chrome Web Store](https://chromewebstore.google.com/detail/olpginhinkaacjcfncphknhnmignoimo) · [Source](https://github.com/cig13zs/playlist-lens) |
 | **Per Piece** | Adds the price per 100 g, 100 ml or piece next to products on Shopee, Lazada, Amazon and seven other shops | [Source](https://github.com/cig13zs/per-piece) (load unpacked) |
 
 ## Web tools
