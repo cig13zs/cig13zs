@@ -10,7 +10,7 @@ Small free browser tools that run on your device. No accounts, no tracking, no s
 |---|---|---|
 | **Invisibles** | Shows the hidden characters in pasted text (zero-width spaces, look-alike spaces, direction marks) and removes them | [Chrome Web Store](https://chromewebstore.google.com/detail/ehfmbdppopedenilpgmhofcdibkilmbe) · [Web app](https://cig13zs.github.io/invisibles/) · [Source](https://github.com/cig13zs/invisibles) |
 | **Sift for AO3** | Keeps your excluded AO3 tags on, mutes authors even when logged out, and shows only fics where your ship comes first | [Chrome Web Store](https://chromewebstore.google.com/detail/nonieoiidaeaeheddaifgdmecgcbfgpl) · [Source](https://github.com/cig13zs/sift-ao3) |
-| **Playlist Lens** | Sorts any YouTube playlist by length and shows which videos fit in the minutes you have | Chrome Web Store (in review) · [Source](https://github.com/cig13zs/playlist-lens) |
+| **Playlist Lens** | Sorts any YouTube playlist by length and shows which videos fit in the minutes you have | [Chrome Web Store](https://chromewebstore.google.com/detail/olpginhinkaacjcfncphknhnmignoimo) · [Source](https://github.com/cig13zs/playlist-lens) |
 | **Per Piece** | Adds the price per 100 g, 100 ml or piece next to products on Shopee, Lazada, Amazon and seven other shops | [Source](https://github.com/cig13zs/per-piece) (load unpacked) |
 
 ## Web tools
@@ -20,6 +20,11 @@ Small free browser tools that run on your device. No accounts, no tracking, no s
 | **Provenant** | Shows which AI labels a photo or video carries (C2PA, IPTC and more) | [Open](https://cig13zs.github.io/provenant/) · [Source](https://github.com/cig13zs/provenant) |
 | **Rinse** | Shows the location and camera data hidden in a photo, then removes it | [Open](https://cig13zs.github.io/rinse/) · [Source](https://github.com/cig13zs/rinse) |
 | **Plusminus** | Turns an instrument's accuracy spec and repeated readings into an uncertainty budget | [Open](https://cig13zs.github.io/plusminus/) · [Source](https://github.com/cig13zs/plusminus) |
+
+## Agent tools
+
+- [limit-doctor](https://github.com/cig13zs/limit-doctor) reads your local Claude Code and Codex logs and ranks where your usage went, with the fix for each cause. Runs as a script or as a skill.
+- [map-design](https://github.com/cig13zs/map-design) is a skill for Claude Code, Codex and other agents that makes newspaper-style maps: one HTML file with an SVG map, the real data and its source, light and dark themes, and a PNG.
 
 ## Video
 
