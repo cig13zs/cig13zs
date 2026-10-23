@@ -21,6 +21,11 @@ Small free browser tools that run on your device. No accounts, no tracking, no s
 | **Rinse** | Shows the location and camera data hidden in a photo, then removes it | [Open](https://cig13zs.github.io/rinse/) · [Source](https://github.com/cig13zs/rinse) |
 | **Plusminus** | Turns an instrument's accuracy spec and repeated readings into an uncertainty budget | [Open](https://cig13zs.github.io/plusminus/) · [Source](https://github.com/cig13zs/plusminus) |
 
+## Agent tools
+
+- [limit-doctor](https://github.com/cig13zs/limit-doctor) reads your local Claude Code and Codex logs and ranks where your usage went, with the fix for each cause. Runs as a script or as a skill.
+- [map-design](https://github.com/cig13zs/map-design) is a skill for Claude Code, Codex and other agents that makes newspaper-style maps: one HTML file with an SVG map, the real data and its source, light and dark themes, and a PNG.
+
 ## Video
 
 - [hf-kit](https://github.com/cig13zs/hf-kit) is a set of [HyperFrames](https://github.com/heygen-com/hyperframes) animation blocks, sound presets and style targets, measured from 48 YouTube videos in 16 niches. It also works as a Claude Code or Codex skill. [Demos](https://cig13zs.github.io/hf-kit/)
